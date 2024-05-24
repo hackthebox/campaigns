@@ -1,7 +1,7 @@
-# Threat Intelligence Report
+# Threat Intelligence Report - RedBadger
 
 ### Produced by: Global Alliance for Security Cooperation (GASC)
-### Report Date: 2024-05-24Red
+### Report Date: 2024-05-24
 
 ---
 
